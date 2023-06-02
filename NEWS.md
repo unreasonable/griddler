@@ -1,5 +1,8 @@
 ## HEAD (unreleased)
 
+## 1.5.3
+* skip_parameter_encoding for [Rails 6.1 support](https://api.rubyonrails.org/v6.1/classes/ActionController/ParameterEncoding/ClassMethods.html#method-i-skip_parameter_encoding)
+
 ## 1.5.2
 * Add Email#charsets reader ([#292](https://github.com/thoughtbot/griddler/pull/292))
 
